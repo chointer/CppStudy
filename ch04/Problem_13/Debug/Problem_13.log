@@ -1,0 +1,4 @@
+﻿  Histogram.cpp
+C:\Users\yoal\Documents\Cpp_Programming\ch04\Problem_13\Histogram.cpp(24,20): warning C4018:  '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\yoal\Documents\Cpp_Programming\ch04\Problem_13\Histogram.cpp(32,20): warning C4018:  '<': signed 또는 unsigned가 일치하지 않습니다.
+  Problem_13.vcxproj -> C:\Users\yoal\Documents\Cpp_Programming\ch04\Debug\Problem_13.exe
