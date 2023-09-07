@@ -1,0 +1,4 @@
+﻿  GraphicEditor.cpp
+C:\Users\yoal\Documents\Cpp_Programming\ch10\Problem_16\GraphicEditor.cpp(38,10): warning C4018:  '>=': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\yoal\Documents\Cpp_Programming\ch10\Problem_16\GraphicEditor.cpp(46,20): warning C4018:  '<': signed 또는 unsigned가 일치하지 않습니다.
+  Problem_16.vcxproj -> C:\Users\yoal\Documents\Cpp_Programming\ch10\Debug\Problem_16.exe
