@@ -1,0 +1,10 @@
+﻿  CPUsimulator.cpp
+C:\Users\yoal\Documents\Cpp_Programming\ch13\OpenChallenge13\CPUsimulator.h(15,38): warning C4290:  함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+C:\Users\yoal\Documents\Cpp_Programming\ch13\OpenChallenge13\CPUsimulator.h(16,39): warning C4290:  함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+C:\Users\yoal\Documents\Cpp_Programming\ch13\OpenChallenge13\CPUsimulator.h(17,40): warning C4290:  함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+C:\Users\yoal\Documents\Cpp_Programming\ch13\OpenChallenge13\CPUsimulator.h(18,40): warning C4290:  함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+C:\Users\yoal\Documents\Cpp_Programming\ch13\OpenChallenge13\CPUsimulator.cpp(3,51): warning C4290:  함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+C:\Users\yoal\Documents\Cpp_Programming\ch13\OpenChallenge13\CPUsimulator.cpp(8,52): warning C4290:  함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+C:\Users\yoal\Documents\Cpp_Programming\ch13\OpenChallenge13\CPUsimulator.cpp(45,53): warning C4290:  함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+C:\Users\yoal\Documents\Cpp_Programming\ch13\OpenChallenge13\CPUsimulator.cpp(61,53): warning C4290:  함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+  OpenChallenge13.vcxproj -> C:\Users\yoal\Documents\Cpp_Programming\ch13\Debug\OpenChallenge13.exe
